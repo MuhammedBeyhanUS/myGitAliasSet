@@ -3,7 +3,9 @@ Git Alias Set
 
 vi ~/.gitconfig
 
+
 [alias]
+
         s = status
         
         a = add
